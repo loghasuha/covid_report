@@ -6,4 +6,4 @@ also performed using SQL for the purpose of analysis.
 ## **Links**
 + [**SQL for Tableau**](https://github.com/loghasuha/covid_report/blob/main/SQLQueryTableau.sql)
 + [**Other calculations using SQL**](https://github.com/loghasuha/covid_report/blob/main/SQLQuery.sql)
-+ [**Tableau dashboard**](https://public.tableau.com/app/profile/logha.sundari/viz/Corona_16823573633570/Dashboard2)
++ [**Tableau dashboard**](https://public.tableau.com/app/profile/logha.sundari/viz/covid_analysis_16824738974460/Dashboard2)
